@@ -1,1 +1,1 @@
-## **Starter Golang with GIN**
+## **Starter Golang with Fiber**
